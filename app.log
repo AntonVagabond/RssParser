@@ -1,0 +1,135 @@
+2024-03-25 20:12:49,883 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-25 20:12:50,016 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-25 20:12'}
+2024-03-25 20:12:50,112 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-25 20:12'}
+2024-03-25 20:12:56,225 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:13:54,792 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:13:54,880 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:13'}
+2024-03-26 20:13:55,067 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:13'}
+2024-03-26 20:14:00,248 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:14:00,361 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:14'}
+2024-03-26 20:14:00,522 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:14'}
+2024-03-26 20:28:46,316 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:28:46,389 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:28'}
+2024-03-26 20:28:46,550 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:28'}
+2024-03-26 20:28:51,787 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:28:52,234 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:28'}
+2024-03-26 20:28:52,381 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:28'}
+2024-03-26 20:28:57,593 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:28:57,748 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:28'}
+2024-03-26 20:28:57,897 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:28'}
+2024-03-26 20:29:04,159 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:29:15,755 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:29:16,326 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:16,493 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:21,685 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:29:21,806 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:21,954 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:28,252 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:29:28,649 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:28,800 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:40,911 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:29:41,002 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:41,164 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:47,375 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:29:47,844 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:47,986 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:53,221 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 20:29:53,436 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 20:29:53,588 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 20:29'}
+2024-03-26 21:19:36,939 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:19:37,104 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:19'}
+2024-03-26 21:19:43,258 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:19:43,619 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:19'}
+2024-03-26 21:19:59,468 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:19:59,565 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:19'}
+2024-03-26 21:19:59,679 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:19'}
+2024-03-26 21:23:51,069 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:23:51,171 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:23'}
+2024-03-26 21:23:51,272 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:23'}
+2024-03-26 21:24:06,582 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:24:06,686 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:24'}
+2024-03-26 21:24:06,946 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:24'}
+2024-03-26 21:24:28,168 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:24:28,763 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:24'}
+2024-03-26 21:24:28,864 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:24'}
+2024-03-26 21:24:56,049 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:24:56,285 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:24'}
+2024-03-26 21:25:01,772 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:25'}
+2024-03-26 21:25:16,803 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:25:17,529 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:25'}
+2024-03-26 21:25:44,601 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:25:44,768 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:25'}
+2024-03-26 21:25:52,144 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:25:52,943 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:25'}
+2024-03-26 21:25:53,044 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:25'}
+2024-03-26 21:28:03,305 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:28:03,669 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:28'}
+2024-03-26 21:28:18,025 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:28:18,394 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:28'}
+2024-03-26 21:28:18,493 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:28'}
+2024-03-26 21:28:23,833 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:28:24,015 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:28'}
+2024-03-26 21:28:24,105 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:28'}
+2024-03-26 21:28:57,689 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:28:58,213 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:28'}
+2024-03-26 21:31:31,209 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:31:31,596 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:31'}
+2024-03-26 21:31:51,940 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:31'}
+2024-03-26 21:32:04,222 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:32:04,341 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:32'}
+2024-03-26 21:32:04,442 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:32'}
+2024-03-26 21:40:12,345 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:40:12,493 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:40'}
+2024-03-26 21:49:13,461 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:49:13,740 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:49'}
+2024-03-26 21:51:12,847 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:51:12,979 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:51'}
+2024-03-26 21:51:13,073 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:51'}
+2024-03-26 21:52:25,769 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:52:25,896 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:52'}
+2024-03-26 21:52:25,991 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:52'}
+2024-03-26 21:53:27,578 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:53:27,715 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:53'}
+2024-03-26 21:53:56,060 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:53:56,411 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:53'}
+2024-03-26 21:54:37,511 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:54:37,653 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:54'}
+2024-03-26 21:56:26,800 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:56:27,078 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:56'}
+2024-03-26 21:56:41,232 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:56:41,733 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:56'}
+2024-03-26 21:56:41,899 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:56'}
+2024-03-26 21:56:47,909 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:56:47,987 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:56'}
+2024-03-26 21:56:48,156 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:56'}
+2024-03-26 21:56:53,931 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:56:54,173 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:56'}
+2024-03-26 21:56:54,330 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:56'}
+2024-03-26 21:57:35,654 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 21:57:36,056 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:57'}
+2024-03-26 21:57:36,175 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 21:57'}
+2024-03-26 22:10:41,833 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-26 22:10:42,063 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 22:10'}
+2024-03-26 22:10:42,240 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-26 22:10'}
+2024-03-26 22:10:48,120 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-30 13:24:24,116 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-30 13:24:24,292 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-30 13:24'}
+2024-03-30 13:24:24,463 - INFO - {'event': 'type', 'message': 'Успешная запись в файл.', 'datetime': '2024-03-30 13:24'}
+2024-03-30 13:24:29,809 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-30 13:24:30,180 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-30 13:24'}
+2024-03-30 13:24:30,346 - INFO - {'event': 'type', 'message': 'Успешная запись в файл.', 'datetime': '2024-03-30 13:24'}
+2024-03-30 13:42:27,878 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-30 13:42:28,021 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-30 13:42'}
+2024-03-30 13:42:28,191 - INFO - {'event': 'type', 'message': 'Успешная запись в файл.', 'datetime': '2024-03-30 13:42'}
+2024-03-30 13:43:17,973 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-30 13:43:18,095 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-30 13:43'}
+2024-03-30 13:43:18,268 - INFO - {'event': 'type', 'message': 'Успешная запись в файл.', 'datetime': '2024-03-30 13:43'}
+2024-03-30 13:43:23,479 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-30 13:43:23,543 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-30 13:43'}
+2024-03-30 13:43:23,688 - INFO - {'event': 'type', 'message': 'Успешная запись в файл.', 'datetime': '2024-03-30 13:43'}
+2024-03-30 13:43:28,918 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-30 13:43:29,067 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-30 13:43'}
+2024-03-30 13:43:29,254 - INFO - {'event': 'type', 'message': 'Успешная запись в файл.', 'datetime': '2024-03-30 13:43'}
+2024-03-30 13:43:48,433 - INFO - HTTP Request: GET https://lenta.ru/rss/news "HTTP/1.1 200 OK"
+2024-03-30 13:43:48,614 - INFO - {'event': 'type', 'message': 'Ответ 200 успешно создан.', 'datetime': '2024-03-30 13:43'}
+2024-03-30 13:43:49,051 - INFO - {'event': 'type', 'message': 'Успешная запись в файл.', 'datetime': '2024-03-30 13:43'}
