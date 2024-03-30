@@ -1,20 +1,16 @@
-from src.config.file_env import settings
-from src.services.count_service import CountNewsService
-from src.services.parser_service import ParserNewsService
-from src.services.record_service import RecordNewsService
-
-
 class RssParser:
     """Класс где происходят все операции."""
-    __parser_news = ParserNewsService
-    __record_news = RecordNewsService
-    __count_news = CountNewsService
 
-    @classmethod
-    async def execute_activities(cls) -> None:
+    __slots__ = ('__parser_news', '__record_news', '__count_news')
+
+    def __init__(self, parser_news, record_news, count_news) -> None:
+        self.__parser_news = parser_news
+        self.__record_news = record_news
+        self.__count_news = count_news
+
+    async def execute_activities(self, rss_link: str) -> None:
         """Выполнить операции."""
-        rss_link = settings.rss_link
-        entries = (await cls.__parser_news
+        entries = (await self.__parser_news
                    .execute_parser_news_and_get_entries(rss_link))
-        cls.__record_news.execute_record(entries)
-        cls.__count_news.execute_news_count()
+        self.__record_news.execute_record(entries)
+        self.__count_news.execute_news_count()
